@@ -1,8 +1,8 @@
+# Client-Server-RPC
+Distributed program for client server message passing involving Remote Procedural Call, using Google Protocol Buffer(Protobuf)
 
-#  README.md
-
-  This work has been submitted by Dhairya Parikh and Prakhar Yadav towards completion of Assignment 3: Remote Procedure Call of Advance Operating Systems course.
-  Make sure to read all the mentioned instructions.
+>  This work has been submitted by Dhairya Parikh and Prakhar Yadav towards completion of Assignment 3: Remote Procedure Call of Advance Operating Systems course.
+>  Make sure to read all the mentioned instructions.
 
 ##  Files included
 
