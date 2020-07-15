@@ -1,0 +1,13 @@
+syntax = "proto2";
+message Call 
+{ 
+	required string name = 1; 
+	required fixed64 args1 = 2; 
+	required fixed64 args2 = 3; 
+} 
+
+message Return 
+{ 
+	required bool success = 1; 
+	required fixed64 value = 2; 
+} 
